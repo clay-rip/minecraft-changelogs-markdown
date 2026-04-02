@@ -7,6 +7,3 @@ Happy mining!
 ## Fixed bugs in 26.1.1
 
 -   [MC-307140](https://bugs.mojang.com/browse/MC-307140) Chat messages can no longer be reported if the chat is enabled
-
----
-
