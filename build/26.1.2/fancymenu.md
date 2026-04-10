@@ -1,0 +1,3 @@
+# Minecraft: Java Edition 26.1.2
+
+Happy Thursday from the shipping room! We're releasing 26.1.2, a hotfix that addresses a couple of critical issues found in the release.
